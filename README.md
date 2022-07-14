@@ -2,7 +2,20 @@ THE BANK PASSBOOK WILL BE DISPLAYED AFTER SET OF TRANSACTIONS DONE BY THE USER
 
 MAIN FILE SHOULD BE RUN AND IT GETS THE NO OF TRANSACTIONS AND OPENING BALANCE AS USER INPUT
 
-_____________________________________________________________________________________________
+_______________________________________________________________________________________________________________
+
+MODULES USED IN THIS PROJECT ARE:
+
+      1.WELCOME_ARTS MODULE WHICH CONTAINS WELCOME TO BANK FXN AND WELCOME TO PASSBOOK FXN
+      
+      2.IMP_FXNS MODULE WHICH CONTAINS BASIC INPUT TAKER FXN (WHICH BASICALLY TAKES INITIAL INPUTS OF
+      NO OF TRANSACTIONS AND OPENING BALANCE) , FXN TO TAKE INPUT OF TRANSACTION DETAILS FOR EACH TRANSACTION
+      AND SOME FXNS FOR EXCEPTION HANDLING
+      
+      3.PASSBOOK_GENERATOR MODULE WHICH LOOPS THROUGH THE TRANSACTIONS DATA AND PRINTS OUT VALUE OF
+      VARIOUS FEILDS FOR EACH TRANSACTION INTO THE TERMINAL 
+      
+_______________________________________________________________________________________________________________
 
 After which for each transaction :
 
