@@ -24,7 +24,7 @@ Modules in this project are :
       
 _______________________________________________________________________________________________________________
 
-After which for each transaction :
+For each transaction :
 
       1. The user is asked whether he wants to credit / debit
 
@@ -32,7 +32,7 @@ After which for each transaction :
 
 ______________________________________________________________________________________________
 
-After all the transactions are completed , 
+After all the transactions are completed :
 
       1. A passbook is printed which contain these feilds
 
@@ -40,7 +40,7 @@ After all the transactions are completed ,
       
 _____________________________________________________________________________________________
 
-Exception handling has been done for the following cases:
+Exception handling has been done for the following cases :
 
       1. If no of transactions entered by user is negative
 
