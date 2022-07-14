@@ -4,16 +4,23 @@ MAIN FILE SHOULD BE RUN AND IT GETS THE NO OF TRANSACTIONS AND OPENING BALANCE A
 
 _______________________________________________________________________________________________________________
 
-MODULES USED IN THIS PROJECT ARE:
+Modules in this project are :
 
-      1.WELCOME_ARTS MODULE WHICH CONTAINS WELCOME TO BANK FXN AND WELCOME TO PASSBOOK FXN
+
+      1. " WELCOME_ARTS MODULE " 
       
-      2.IMP_FXNS MODULE WHICH CONTAINS BASIC INPUT TAKER FXN (WHICH BASICALLY TAKES INITIAL INPUTS OF
-      NO OF TRANSACTIONS AND OPENING BALANCE) , FXN TO TAKE INPUT OF TRANSACTION DETAILS FOR EACH TRANSACTION
-      AND SOME FXNS FOR EXCEPTION HANDLING
+      Which Contains Welcome To Bank Fxn And Welcome To Passbook Fxn
+
+      2. " IMP_FXNS MODULE "
       
-      3.PASSBOOK_GENERATOR MODULE WHICH LOOPS THROUGH THE TRANSACTIONS DATA AND PRINTS OUT VALUE OF
-      VARIOUS FEILDS FOR EACH TRANSACTION INTO THE TERMINAL 
+      Which Contains Basic Input Taker Fxn (Which Basically Takes Initial Inputs Of
+      No Of Transactions And Opening Balance) , Fxn To Take Input Of Transaction Details For Each Transaction
+      And Some Fxns For Exception Handling
+
+      3. " PASSBOOK_GENERATOR MODULE " 
+      
+      Which Loops Through The Transactions Data And Prints Out Value Of
+      Various Feilds For Each Transaction Into The Terminal 
       
 _______________________________________________________________________________________________________________
 
