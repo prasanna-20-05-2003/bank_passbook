@@ -1,4 +1,4 @@
-from time import sleep,asctime, time
+from time import sleep,asctime
 from os import system
 from welcome_arts import welcome_to_bank,center_string
 
