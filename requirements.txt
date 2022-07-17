@@ -1,0 +1,8 @@
+time module and os module are needed for executing this project
+-------------------------------------------------------------------------------------------
+
+use the below commands to install them
+--------------------------------------------------------
+	pip install time
+	pip install os 
+--------------------------------------------------------
